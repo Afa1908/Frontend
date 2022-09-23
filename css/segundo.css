@@ -1,0 +1,168 @@
+body {
+    width: auto;
+    height: auto;
+    background-color: #85bad8;
+}
+
+header {
+    padding: 50px;
+    display: inline-block;
+    position: relative;
+}
+
+#imagem {
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+    top: auto;
+    display: flow-root;
+    float: left;
+    padding: 10px;
+}
+
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+h4 {
+    display: block;
+    font-size: 1em;
+    margin-top: 1.33em;
+    margin-bottom: 1.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+h5 {
+    display: block;
+    font-size: .83em;
+    margin-top: 1.67em;
+    margin-bottom: 1.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+h6 {
+    display: block;
+    font-size: .67em;
+    margin-top: 2.33em;
+    margin-bottom: 2.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+.lista {
+    font-size: 35px;
+    text-align:right;
+    margin-top: 0px;
+    color: black;
+}
+
+main {
+    margin-top: 110px;
+    margin-right: 65px;
+    padding: 50px;
+    background-color: #4b6360a8;
+    width: 40%;
+    padding-left: 50px;
+    margin-left: 50px;
+    float: right;
+    border-radius: 25px;
+
+}
+
+main > h1, p, .browser {
+    padding-top: 1000px;
+    padding-bottom: 1500px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.browser {
+    background: white;
+    border-radius: 10px;
+}
+
+.browser > h2, p {
+    margin: 4px;
+    font-size: 90%;
+}
+
+#texto {
+    text-align: center;
+}
+
+em {
+    text-decoration: solid;
+    text-transform: uppercase;
+}
+
+aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: left;
+    font-style: italic;
+    background-color: lightgray;
+    border-radius: 5px;
+}
+
+#tags1 {
+    font-weight: bold;
+    font-size: 25px;
+    position: relative;
+    padding-left: 10px;
+}
+
+
+.caixa1 {
+    float: right;
+    padding-right: 0;
+    margin-right: 0; 
+    margin-top: 0;
+}
+
+.lista-hs  {
+    text-align: left;
+    top: 1500px;
+    padding: 200px;
+}
+
+#texto2 {
+    font-weight: bold;
+    font-size: 25px; 
+    border-radius: 10px;
+    border: solid rgb(12, 12, 14);
+    color: #fff;
+    padding: 10px;
+}

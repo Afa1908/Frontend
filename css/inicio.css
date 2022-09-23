@@ -1,0 +1,47 @@
+body {
+    width: auto;
+    height: auto;
+    background-color: rgb(54, 67, 105);
+}
+
+header {
+    display: inline-block;
+    position: relative;
+}
+
+h1 {
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    text-decoration: solid;
+    text-align: center;
+    border-radius: 10px;
+}
+
+nav {
+position: absolute;
+top: 100px;
+right: 300px;
+font-size: 40px;
+text-align: center;
+}
+
+.caixa2 {
+    position: absolute;
+    top: 150px;
+    right: 250px;
+    font-size: 40px;
+    text-align: center; 
+    border: 20px;
+    border-color: blue;
+}
+
+.tags {
+    position: absolute;
+    top: 900px;
+    right: 1550px;
+    font-size: 30px;
+    text-align: left; 
+    border: 20px; 
+}
+
